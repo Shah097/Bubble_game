@@ -101,8 +101,8 @@ html,body{
 }
 
 .bubble{
-    height: 75px;
-    width: 75px;
+    height: 70px;
+    width: 70px;
     border-radius: 50%;
     background-color: forestgreen;
     color: #fff;
