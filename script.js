@@ -6,7 +6,7 @@ var scores = []; // Array to store scores
 
 function makebubble() {
     clutter = ""; // Reset the clutter string
-    for (var i = 1; i <= 90; i++) {
+    for (var i = 1; i <= 80; i++) {
         var rn = Math.floor(Math.random() * 100);
         clutter += `<div class="bubble">${rn}</div>`;
     }
